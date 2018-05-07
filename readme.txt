@@ -5,4 +5,4 @@ Im change it on 20180505.
 Git tracks changed.
 Creating a new branch is quick and simple.
 add merge
-741159123 in learngit.
+741159123 is all of them.
